@@ -1,0 +1,1375 @@
+{
+ "version": 1,
+ "tool": "wd3 0.1.0",
+ "captureId": "clutchdriving.framer.website-47334343",
+ "capturedAt": "2026-11-06T17:13:13+00:00",
+ "entry": {
+  "url": "https://clutchdriving.framer.website/",
+  "path": "/",
+  "search": "",
+  "file": "assets/clutchdriving.framer.website/index.html",
+  "contentType": "text/html"
+ },
+ "blocked": [
+  "^https?://([^/?#]+\\.)?(google\\-analytics\\.com|analytics\\.google\\.com|googletagmanager\\.com|googleadservices\\.com|doubleclick\\.net|googlesyndication\\.com|googleoptimize\\.com|connect\\.facebook\\.net|bat\\.bing\\.com|snap\\.licdn\\.com|px\\.ads\\.linkedin\\.com|analytics\\.tiktok\\.com|ct\\.pinterest\\.com|static\\.ads\\-twitter\\.com|analytics\\.twitter\\.com|tr\\.snapchat\\.com|sc\\-static\\.net|mc\\.yandex\\.ru|hotjar\\.com|hotjar\\.io|clarity\\.ms|cdn\\.segment\\.com|api\\.segment\\.io|cdn\\.mxpnl\\.com|api\\-js\\.mixpanel\\.com|api\\.mixpanel\\.com|api\\.amplitude\\.com|api2\\.amplitude\\.com|api\\-secure\\.amplitude\\.com|api\\-sr\\.amplitude\\.com|sr\\-client\\-cfg\\.amplitude\\.com|plausible\\.io|cloud\\.umami\\.is|analytics\\.umami\\.is|static\\.cloudflareinsights\\.com|cloudflareinsights\\.com|vitals\\.vercel\\-insights\\.com|browser\\-intake\\-datadoghq\\.com|browser\\-intake\\-datadoghq\\.eu|js\\-agent\\.newrelic\\.com|bam\\.nr\\-data\\.net|bam\\-cell\\.nr\\-data\\.net|fullstory\\.com|script\\.crazyegg\\.com|mouseflow\\.com|smartlook\\.com|heapanalytics\\.com|i\\.posthog\\.com|stats\\.wp\\.com|pixel\\.wp\\.com|promotekit\\.com|ingest\\.sentry\\.io|ingest\\.us\\.sentry\\.io|ingest\\.de\\.sentry\\.io|widget\\.intercom\\.io|js\\.intercomcdn\\.com|api\\-iam\\.intercom\\.io|js\\.hs\\-scripts\\.com|js\\.hs\\-analytics\\.net|js\\.hs\\-banner\\.com|js\\.hscollectedforms\\.net|js\\.usemessages\\.com|track\\.hubspot\\.com|client\\.crisp\\.chat|embed\\.tawk\\.to|js\\.driftt\\.com|static\\.zdassets\\.com|ekr\\.zdassets\\.com|cdn\\.cookielaw\\.org|geolocation\\.onetrust\\.com|consent\\.cookiebot\\.com|consentcdn\\.cookiebot\\.com|app\\.usercentrics\\.eu|api\\.usercentrics\\.eu|cdn\\.iubenda\\.com|cmp\\.osano\\.com|cdn\\.termly\\.io)(:\\d+)?([/?#]|$)",
+  "/rpc/increment_shared_code_views",
+  "^https?://(umami|analytics|stats|plausible)\\.[^/]+/(api/send|api/collect|api/event|script\\.js)",
+  "/g/c(ollect)?\\?v=2&",
+  "sentry\\.io/api/\\d+/(envelope|store)",
+  "/api/meta-capi",
+  "^https?://(leadtracker|tracking|track|events?|collect)\\.[^/]+/",
+  "^https?://a\\.vturb\\.com/",
+  "facebook\\.com/tr[/?]",
+  "/_vercel/(speed-)?insights/",
+  "/cdn-cgi/rum",
+  "/cdn-cgi/challenge-platform/",
+  "google\\.com/(pagead|ads)/"
+ ],
+ "volatileParams": [
+  "v",
+  "_rsc",
+  "dpl",
+  "_",
+  "t",
+  "ts",
+  "timestamp",
+  "cb",
+  "cachebust",
+  "cacheBust",
+  "nocache",
+  "rnd",
+  "rand",
+  "random",
+  "_t"
+ ],
+ "entries": [
+  {
+   "url": "https://clutchdriving.framer.website/",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/html",
+   "headers": {
+    "content-type": "text/html",
+    "framer-site-id": "54faf245e008b94616b0563002ff292de95b7637f86438c04d5524661dba9ce3",
+    "link": "<https://framerusercontent.com>; rel=\"preconnect\", <https://framerusercontent.com>; rel=\"preconnect\"; crossorigin=\"\""
+   },
+   "resourceType": "document",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/clutchdriving.framer.website/index.html",
+   "size": 374176,
+   "modes": [
+    "navigate"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/ggdATlBDjYSiE9IRSrHmk6goRoo.jpg?width=1600&height=1067",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/webp",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/webp",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*",
+    "x-amzn-requestid": "e813c499-7b53-41dc-a929-ba0dabe4bb91",
+    "x-amzn-trace-id": "Root=1-6aee0372-4b7e3910300596e325066086;Parent=679f550ccf0eb3eb;Sampled=0;Lineage=1:f456f256:0"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/images/ggdATlBDjYSiE9IRSrHmk6goRoo__qcd7a568f.jpg",
+   "size": 118284,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/bd8czEJzsQPuorX2I1fuaKwIN6Y.jpg?width=1600&height=900",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/webp",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/webp",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*",
+    "x-amzn-requestid": "bc390829-b940-463e-a6a4-87bf6ee50083",
+    "x-amzn-trace-id": "Root=1-6aee0372-3751c6066a285ee96417375e;Parent=44054cc854874585;Sampled=0;Lineage=1:f456f256:0"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/images/bd8czEJzsQPuorX2I1fuaKwIN6Y__qae542d01.jpg",
+   "size": 123460,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/553FJNKDWO80CQowmMNJQ1Eh1jI.jpg?width=1600&height=1074",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/webp",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/webp",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*",
+    "x-amzn-requestid": "be1818bc-2a7d-4898-a5d3-cd24520c6081",
+    "x-amzn-trace-id": "Root=1-6aee0372-6f6acbfb332fb74b70fc384b;Sampled=1;Lineage=1:f456f256:0"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/images/553FJNKDWO80CQowmMNJQ1Eh1jI__q41f4a7e7.jpg",
+   "size": 202468,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/n8qYj6jGTWnRYZTghx2Ztz6Iw.jpg?width=1600&height=1067",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/webp",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/webp",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*",
+    "x-amzn-requestid": "c20b8f37-848a-49d1-8879-400f75ae69e6",
+    "x-amzn-trace-id": "Root=1-6aee0372-4b065743256831b3694eb813;Parent=0a2afe29c283394f;Sampled=0;Lineage=1:f456f256:0"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/images/n8qYj6jGTWnRYZTghx2Ztz6Iw__qcd7a568f.jpg",
+   "size": 189262,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/S9wfOPJ1YH5pBoQq03EkDWsnV0.jpg?width=1600&height=1002",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/jpeg",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/jpeg",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*",
+    "x-amzn-requestid": "a7bb6376-1ff8-4484-8ee6-97d19a58e55a",
+    "x-amzn-trace-id": "Root=1-6aee0372-08604cfc745939b21235b4fb;Parent=096bfb1a77aa69ec;Sampled=0;Lineage=1:f456f256:0"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/images/S9wfOPJ1YH5pBoQq03EkDWsnV0__qc37f6569.jpg",
+   "size": 419403,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/third-party-assets/fontshare/wf/WAVZNL4Z7TESTS4B4IIRZFODLSPP6FXA/E36Y7HT2GFM2VKF4G73CRBOSSERR73SW/33ZCUAC3GU2QVDMGY6EP3BNWHET5IUK4.woff2",
+   "method": "GET",
+   "status": 200,
+   "contentType": "application/octet-stream",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "application/octet-stream",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*",
+    "x-amzn-requestid": "18d9a845-17d1-44e1-a6a1-6cb675f17574",
+    "x-amzn-trace-id": "Root=1-6ae15244-43e934660c8387207cac2003;Sampled=1;Lineage=1:982d51fc:0"
+   },
+   "resourceType": "font",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/third-party-assets/fontshare/wf/WAVZNL4Z7TESTS4B4IIRZFODLSPP6FXA/E36Y7HT2GFM2VKF4G73CRBOSSERR73SW/33ZCUAC3GU2QVDMGY6EP3BNWHET5IUK4.woff2",
+   "size": 53484,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/L8mA76yeG.CrbRInio.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/L8mA76yeG.CrbRInio.mjs",
+   "size": 4733,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/k3udDqvRs.B6OdUE6S.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/k3udDqvRs.B6OdUE6S.mjs",
+   "size": 3169,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/augiA20Il.L-8qrSv4.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/augiA20Il.L-8qrSv4.mjs",
+   "size": 1061,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/o_DqovdpI.CSYsJDgO.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/o_DqovdpI.CSYsJDgO.mjs",
+   "size": 1247,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/YFRCPPXG0.DJJc32Rm.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/YFRCPPXG0.DJJc32Rm.mjs",
+   "size": 1247,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/PgVsNTJ8F.DgbivR5L.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/PgVsNTJ8F.DgbivR5L.mjs",
+   "size": 3263,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/qgylEGaiU.CnZkSyiR.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/qgylEGaiU.CnZkSyiR.mjs",
+   "size": 3104,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/t05UghLVC.DM_mTlUs.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/t05UghLVC.DM_mTlUs.mjs",
+   "size": 1032,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/script_main._E5K1iEH.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/script_main._E5K1iEH.mjs",
+   "size": 9060,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/rolldown-runtime.Bi-D_2cA.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/rolldown-runtime.Bi-D_2cA.mjs",
+   "size": 244,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/O7auHIABWcajuB4bst0gj4afM0.jpg?scale-down-to=1024&width=1400&height=933",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/avif",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/avif",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*",
+    "x-amzn-requestid": "9083d791-bb71-49d1-bf09-f47e953bfd8a",
+    "x-amzn-trace-id": "Root=1-6aee0372-04537a75352b111208dfcc4a;Parent=6ba3f7c0624d8189;Sampled=0;Lineage=1:f456f256:0"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/images/O7auHIABWcajuB4bst0gj4afM0__q8e2914fa.jpg",
+   "size": 69339,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/8Zcj7SJ4Nts4DwmMG5CoYHO3w.jpg?scale-down-to=1024&width=900&height=1125",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/avif",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/avif",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*",
+    "x-amzn-requestid": "8906e4fa-d982-410f-a74f-1fbe540252ba",
+    "x-amzn-trace-id": "Root=1-6adb7d09-4339fa0318afc2d725b3ff8e;Parent=48efdd7b6e7f47e0;Sampled=0;Lineage=1:f456f256:0"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/images/8Zcj7SJ4Nts4DwmMG5CoYHO3w__qc13aea3f.jpg",
+   "size": 39693,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/toplevel-deps.B6Vs3q-z.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/toplevel-deps.B6Vs3q-z.mjs",
+   "size": 96259,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/react.Dxe_2v0O.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/react.Dxe_2v0O.mjs",
+   "size": 145057,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/30chIVcQ82fv0pz4LHkgr4KMWkg.jpg?scale-down-to=1024&width=900&height=1125",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/avif",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/avif",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*",
+    "x-amzn-requestid": "1b588205-f3ea-4733-bfcf-d495c6e15cb2",
+    "x-amzn-trace-id": "Root=1-6ae2f0fa-22eed0b721a85a4b215351d2;Parent=50181f8f1a667229;Sampled=0;Lineage=1:f456f256:0"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/images/30chIVcQ82fv0pz4LHkgr4KMWkg__qc13aea3f.jpg",
+   "size": 57378,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://fonts.gstatic.com/s/anybody/v13/VuJxdNvK2Ib2ppdWSKHdOQ.woff2",
+   "method": "GET",
+   "status": 200,
+   "contentType": "font/woff2",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "font/woff2",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "font",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/fonts.gstatic.com/s/anybody/v13/VuJxdNvK2Ib2ppdWSKHdOQ.woff2",
+   "size": 56888,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/5ilXv9KUfOhzcvhIhR1aC23J2Q.jpg?scale-down-to=1024&width=900&height=1125",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/avif",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/avif",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*",
+    "x-amzn-requestid": "9a6b5010-f5f0-4b67-877d-3e4bb3f1f84d",
+    "x-amzn-trace-id": "Root=1-6aeb6684-5607e46f12ab4e893b5ce8de;Sampled=1;Lineage=1:f456f256:0"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/images/5ilXv9KUfOhzcvhIhR1aC23J2Q__qc13aea3f.jpg",
+   "size": 78688,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/z1RDcnr45.C1QwXqd8.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/z1RDcnr45.C1QwXqd8.mjs",
+   "size": 4925,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/ebcCdE0FS.6nBwMJW3.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/ebcCdE0FS.6nBwMJW3.mjs",
+   "size": 4918,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/EO797H3ca.CBJJX_m2.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/EO797H3ca.CBJJX_m2.mjs",
+   "size": 21769,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/motion.CE6o6hlD.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/motion.CE6o6hlD.mjs",
+   "size": 155352,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/GetTemplateBadge.BvBA0ZGC.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/GetTemplateBadge.BvBA0ZGC.mjs",
+   "size": 4165,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/VlT0ij3haiLqamzYasX6gHBY6IgXWg8PSdUCRw2iX3g.D3jUdSa9.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/VlT0ij3haiLqamzYasX6gHBY6IgXWg8PSdUCRw2iX3g.D3jUdSa9.mjs",
+   "size": 214784,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/framer.ijNtrtaN.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/framer.ijNtrtaN.mjs",
+   "size": 436219,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/OBS3VNHgwjGNhKMPk9E3TqIOJ8w.jpg?width=2800&height=1867",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/webp",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/webp",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*",
+    "x-amzn-requestid": "ea65d0f7-22d5-4192-abe2-8dec8a51f846",
+    "x-amzn-trace-id": "Root=1-6aee0372-050f9a6c71aaff1230dfbf4a;Parent=4f0e4fb6592471bf;Sampled=0;Lineage=1:f456f256:0"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/images/OBS3VNHgwjGNhKMPk9E3TqIOJ8w__qac99e7a7.jpg",
+   "size": 552012,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/hRtW3Uds3OiMa3zHgkZDffSDQ54.jpg?scale-down-to=1024&width=1400&height=933",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/webp",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/webp",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*",
+    "x-amzn-requestid": "b14b4bbe-9424-4213-b9e8-47d27f124e1e",
+    "x-amzn-trace-id": "Root=1-6aee0372-279be62d13c51d7f232463ef;Sampled=1;Lineage=1:f456f256:0"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/images/hRtW3Uds3OiMa3zHgkZDffSDQ54__q8e2914fa.jpg",
+   "size": 203422,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/pOxkE2r1uog3q3nZlPIMKu17I.jpg?scale-down-to=1024&width=1400&height=1088",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/webp",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/webp",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*",
+    "x-amzn-requestid": "c3bbba5f-1092-423d-b67f-a4902514fd9e",
+    "x-amzn-trace-id": "Root=1-6aee0372-16d624ca3ac72b842f3d3daf;Parent=1f7d252688923817;Sampled=0;Lineage=1:f456f256:0"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/images/pOxkE2r1uog3q3nZlPIMKu17I__q9614ff58.jpg",
+   "size": 190258,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/9Nmix6g8NOphRxsDS2nJRcEAiOQ.jpg?scale-down-to=1024&width=1400&height=788",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/webp",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/webp",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*",
+    "x-amzn-requestid": "cd9cc1ba-4ddc-4151-948b-3b594a84652e",
+    "x-amzn-trace-id": "Root=1-6aee0372-4269fde55096689e3453fe83;Sampled=1;Lineage=1:f456f256:0"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/images/9Nmix6g8NOphRxsDS2nJRcEAiOQ__q2d1ab704.jpg",
+   "size": 159458,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/ogdSgLsyPRKkL0ZNAFDcPgigTM.jpg?width=2800&height=1867",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/webp",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/webp",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*",
+    "x-amzn-requestid": "42840a54-737f-4b84-a96a-10034d3aa9e4",
+    "x-amzn-trace-id": "Root=1-6aee0372-2ca518932413a7035bc917a8;Sampled=1;Lineage=1:f456f256:0"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/images/ogdSgLsyPRKkL0ZNAFDcPgigTM__qac99e7a7.jpg",
+   "size": 156050,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/uIciVl5oj86TdzYPy8PyBCqJJ5s.jpg?scale-down-to=1024&width=1400&height=977",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/webp",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/webp",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*",
+    "x-amzn-requestid": "ad7bf310-57f3-4b81-bb91-29f478d7b3e7",
+    "x-amzn-trace-id": "Root=1-6aee0372-44bb6cc17becd525650a6cec;Sampled=1;Lineage=1:f456f256:0"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/images/uIciVl5oj86TdzYPy8PyBCqJJ5s__qbfdfb232.jpg",
+   "size": 174420,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/MXQDdfTPr9LXKsh25tej4PDwFg.jpg?width=2800&height=1867",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/webp",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/webp",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*",
+    "x-amzn-requestid": "19cafb03-701f-4b87-8787-8ba4b34ffb66",
+    "x-amzn-trace-id": "Root=1-6aee0372-75d701d2523a32cf3f9d26c7;Parent=67d7df3dc2fd58e3;Sampled=0;Lineage=1:f456f256:0"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/images/MXQDdfTPr9LXKsh25tej4PDwFg__qac99e7a7.jpg",
+   "size": 666098,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://fonts.gstatic.com/s/overpass/v19/qFda35WCmI96Ajtm83upeyoaX6QPnlo6IvTrPJCLtce-og.woff2",
+   "method": "GET",
+   "status": 200,
+   "contentType": "font/woff2",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "font/woff2",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "font",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/fonts.gstatic.com/s/overpass/v19/qFda35WCmI96Ajtm83upeyoaX6QPnlo6IvTrPJCLtce-og.woff2",
+   "size": 63848,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://fonts.gstatic.com/s/overpass/v19/qFda35WCmI96Ajtm83upeyoaX6QPnlo6G_TrPJCLtce-og.woff2",
+   "method": "GET",
+   "status": 200,
+   "contentType": "font/woff2",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "font/woff2",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "font",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/fonts.gstatic.com/s/overpass/v19/qFda35WCmI96Ajtm83upeyoaX6QPnlo6G_TrPJCLtce-og.woff2",
+   "size": 63596,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://fonts.gstatic.com/s/overpass/v19/qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PPrPJCLtce-og.woff2",
+   "method": "GET",
+   "status": 200,
+   "contentType": "font/woff2",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "font/woff2",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "font",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/fonts.gstatic.com/s/overpass/v19/qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PPrPJCLtce-og.woff2",
+   "size": 61484,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/go1oage9v.UWfuw5jA.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/go1oage9v.UWfuw5jA.mjs",
+   "size": 3261,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/YEyRZTlcO.C8KrNC_F.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/YEyRZTlcO.C8KrNC_F.mjs",
+   "size": 11604,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/PX9hIOIVM.DS99LJOl.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/PX9hIOIVM.DS99LJOl.mjs",
+   "size": 20190,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/JpM5ArNGF.BI5_MAnL.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "0",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/JpM5ArNGF.BI5_MAnL.mjs",
+   "size": 3194,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/SRWtI2c4rlkKcotM3vuPaNGEhQU.jpg?scale-down-to=1024&width=900&height=1125",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/webp",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/webp",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*",
+    "x-amzn-requestid": "c8f82f8f-6174-414e-854d-353e074c999d",
+    "x-amzn-trace-id": "Root=1-6aee0aa9-1e07e8800c67652532fbb74a;Sampled=1;Lineage=1:f456f256:0"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/images/SRWtI2c4rlkKcotM3vuPaNGEhQU__qc13aea3f.jpg",
+   "size": 76962,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://framer.com/edit/init.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript; charset=utf-8",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "text/javascript; charset=utf-8",
+    "document-policy": "include-js-call-stacks-in-crash-reports",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-robots-tag": "noindex"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framer.com/edit/init.mjs",
+   "size": 8463,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://app.framerstatic.com/chunk-JSZPSK4C.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-headers": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "3600",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "https://framer.com",
+    "x-amz-version-id": "null"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/app.framerstatic.com/chunk-JSZPSK4C.mjs",
+   "size": 4043,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+   "method": "GET",
+   "status": 200,
+   "contentType": "font/woff2",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "font/woff2",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "font",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+   "size": 27380,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://framer.com/edit?framerSiteId=54faf245e008b94616b0563002ff292de95b7637f86438c04d5524661dba9ce3&source=clutchdriving.framer.website&features=%7B%22editorBarDisableFrameAncestorsSecurity%22%3Afalse%2C%22onPageRichTextBlockSelection%22%3Atrue%7D&loadStart=1793985194102",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/html; charset=utf-8",
+   "headers": {
+    "content-type": "text/html; charset=utf-8",
+    "document-policy": "include-js-call-stacks-in-crash-reports",
+    "link": "<https://api.framer.com>; rel=preconnect",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-robots-tag": "noindex"
+   },
+   "resourceType": "document",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framer.com/edit__q174cde4f.html",
+   "size": 2935,
+   "modes": [
+    "navigate"
+   ]
+  },
+  {
+   "url": "https://framer.com/bootstrap.0918601564d0b80e940e0fc2182cb92ecec5526f.js",
+   "method": "GET",
+   "status": 200,
+   "contentType": "application/javascript",
+   "headers": {
+    "content-type": "application/javascript",
+    "document-policy": "include-js-call-stacks-in-crash-reports",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framer.com/bootstrap.0918601564d0b80e940e0fc2182cb92ecec5526f.js",
+   "size": 1343
+  },
+  {
+   "url": "https://app.framerstatic.com/editorbar.62SZERSO.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-headers": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "3600",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "https://framer.com",
+    "x-amz-version-id": "null"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/app.framerstatic.com/editorbar.62SZERSO.mjs",
+   "size": 2300
+  },
+  {
+   "url": "https://app.framerstatic.com/chunk-WOEOGJ2W.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-headers": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "3600",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "https://framer.com",
+    "x-amz-version-id": "null"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/app.framerstatic.com/chunk-WOEOGJ2W.mjs",
+   "size": 209
+  },
+  {
+   "url": "https://app.framerstatic.com/chunk-YRQ7G4QH.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-headers": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "3600",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "https://framer.com",
+    "x-amz-version-id": "null"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/app.framerstatic.com/chunk-YRQ7G4QH.mjs",
+   "size": 772
+  },
+  {
+   "url": "https://app.framerstatic.com/chunk-WLHSDIGQ.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-headers": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "3600",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "https://framer.com",
+    "x-amz-version-id": "null"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/app.framerstatic.com/chunk-WLHSDIGQ.mjs",
+   "size": 3858
+  },
+  {
+   "url": "https://app.framerstatic.com/chunk-BEAJFPMP.mjs",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript",
+   "headers": {
+    "access-control-allow-headers": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-max-age": "3600",
+    "content-type": "text/javascript",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "https://framer.com",
+    "x-amz-version-id": "null"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/app.framerstatic.com/chunk-BEAJFPMP.mjs",
+   "size": 1798
+  },
+  {
+   "url": "https://api.framer.com/auth/web/access-token?source=editorbar",
+   "method": "GET",
+   "status": 200,
+   "contentType": "application/json; charset=utf-8",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "access-control-allow-origin": "https://framer.com",
+    "content-type": "application/json; charset=utf-8",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "fetch",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/api.framer.com/auth/web/access-token__q764a0ac0.json",
+   "size": 43
+  },
+  {
+   "url": "https://framerusercontent.com/images/8zYiQZiKNfbDmqWVP9qYAALPU.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/webp",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/webp",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*",
+    "x-amzn-requestid": "c9ca6d61-1839-45eb-a8f7-37b329d19d86",
+    "x-amzn-trace-id": "Root=1-6aee0aaa-47b9403e3cbb3bc47b6d5b33;Parent=07de3f2a17df75ca;Sampled=0;Lineage=1:f456f256:0"
+   },
+   "resourceType": "other",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/images/8zYiQZiKNfbDmqWVP9qYAALPU.png",
+   "size": 4944,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/ACws1Th42GHP3EMjM0RmKW8iho.png?width=3725&height=278",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/webp",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/webp",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "timing-allow-origin": "*",
+    "x-amzn-requestid": "eeabec28-1294-41af-b6d8-04c52fcb1897",
+    "x-amzn-trace-id": "Root=1-6aee0abb-7704866868ca607b4f192cee;Sampled=1;Lineage=1:f456f256:0"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "assets/framerusercontent.com/images/ACws1Th42GHP3EMjM0RmKW8iho__q87d544a8.png",
+   "size": 15374,
+   "modes": [
+    "no-cors"
+   ]
+  }
+ ],
+ "videos": {
+  "posters": {},
+  "onlineHosts": []
+ }
+}

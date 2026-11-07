@@ -1,0 +1,749 @@
+{
+ "entryUrl": "https://clutchdriving.framer.website/",
+ "capturedAt": "2026-11-06T17:13:13+00:00",
+ "indexHtml": {
+  "kind": "arquivo",
+  "description": "site vivo aberto com duplo clique (file://): um runtime faz o papel do Service Worker; imagens e vídeos que a página só exibe são lidos de assets/, o resto (CSS, JS, fontes, dados, imagens de WebGL) vai embutido no index.html"
+ },
+ "files": [
+  {
+   "url": "https://clutchdriving.framer.website/",
+   "file": "assets/clutchdriving.framer.website/index.html",
+   "type": "text/html",
+   "resourceType": "document",
+   "size": 374176,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://api.framer.com/auth/web/access-token?source=editorbar",
+   "file": "assets/api.framer.com/auth/web/access-token__q764a0ac0.json",
+   "type": "application/json",
+   "resourceType": "fetch",
+   "size": 43,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://app.framerstatic.com/chunk-BEAJFPMP.mjs",
+   "file": "assets/app.framerstatic.com/chunk-BEAJFPMP.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 1798,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://app.framerstatic.com/chunk-JSZPSK4C.mjs",
+   "file": "assets/app.framerstatic.com/chunk-JSZPSK4C.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 4043,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://app.framerstatic.com/chunk-WLHSDIGQ.mjs",
+   "file": "assets/app.framerstatic.com/chunk-WLHSDIGQ.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 3858,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://app.framerstatic.com/chunk-WOEOGJ2W.mjs",
+   "file": "assets/app.framerstatic.com/chunk-WOEOGJ2W.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 209,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://app.framerstatic.com/chunk-YRQ7G4QH.mjs",
+   "file": "assets/app.framerstatic.com/chunk-YRQ7G4QH.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 772,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://app.framerstatic.com/editorbar.62SZERSO.mjs",
+   "file": "assets/app.framerstatic.com/editorbar.62SZERSO.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 2300,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://fonts.gstatic.com/s/anybody/v13/VuJxdNvK2Ib2ppdWSKHdOQ.woff2",
+   "file": "assets/fonts.gstatic.com/s/anybody/v13/VuJxdNvK2Ib2ppdWSKHdOQ.woff2",
+   "type": "font/woff2",
+   "resourceType": "font",
+   "size": 56888,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://fonts.gstatic.com/s/overpass/v19/qFda35WCmI96Ajtm83upeyoaX6QPnlo6G_TrPJCLtce-og.woff2",
+   "file": "assets/fonts.gstatic.com/s/overpass/v19/qFda35WCmI96Ajtm83upeyoaX6QPnlo6G_TrPJCLtce-og.woff2",
+   "type": "font/woff2",
+   "resourceType": "font",
+   "size": 63596,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://fonts.gstatic.com/s/overpass/v19/qFda35WCmI96Ajtm83upeyoaX6QPnlo6IvTrPJCLtce-og.woff2",
+   "file": "assets/fonts.gstatic.com/s/overpass/v19/qFda35WCmI96Ajtm83upeyoaX6QPnlo6IvTrPJCLtce-og.woff2",
+   "type": "font/woff2",
+   "resourceType": "font",
+   "size": 63848,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://fonts.gstatic.com/s/overpass/v19/qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PPrPJCLtce-og.woff2",
+   "file": "assets/fonts.gstatic.com/s/overpass/v19/qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PPrPJCLtce-og.woff2",
+   "type": "font/woff2",
+   "resourceType": "font",
+   "size": 61484,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framer.com/bootstrap.0918601564d0b80e940e0fc2182cb92ecec5526f.js",
+   "file": "assets/framer.com/bootstrap.0918601564d0b80e940e0fc2182cb92ecec5526f.js",
+   "type": "application/javascript",
+   "resourceType": "script",
+   "size": 1343,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framer.com/edit/init.mjs",
+   "file": "assets/framer.com/edit/init.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 8463,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framer.com/edit?framerSiteId=54faf245e008b94616b0563002ff292de95b7637f86438c04d5524661dba9ce3&source=clutchdriving.framer.website&features=%7B%22editorBarDisableFrameAncestorsSecurity%22%3Afalse%2C%22onPageRichTextBlockSelection%22%3Atrue%7D&loadStart=1793985194102",
+   "file": "assets/framer.com/edit__q174cde4f.html",
+   "type": "text/html",
+   "resourceType": "document",
+   "size": 2935,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+   "file": "assets/framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+   "type": "font/woff2",
+   "resourceType": "font",
+   "size": 27380,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/30chIVcQ82fv0pz4LHkgr4KMWkg.jpg?scale-down-to=1024&width=900&height=1125",
+   "file": "assets/framerusercontent.com/images/30chIVcQ82fv0pz4LHkgr4KMWkg__qc13aea3f.jpg",
+   "type": "image/avif",
+   "resourceType": "image",
+   "size": 57378,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/553FJNKDWO80CQowmMNJQ1Eh1jI.jpg?width=1600&height=1074",
+   "file": "assets/framerusercontent.com/images/553FJNKDWO80CQowmMNJQ1Eh1jI__q41f4a7e7.jpg",
+   "type": "image/webp",
+   "resourceType": "image",
+   "size": 202468,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/5ilXv9KUfOhzcvhIhR1aC23J2Q.jpg?scale-down-to=1024&width=900&height=1125",
+   "file": "assets/framerusercontent.com/images/5ilXv9KUfOhzcvhIhR1aC23J2Q__qc13aea3f.jpg",
+   "type": "image/avif",
+   "resourceType": "image",
+   "size": 78688,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/8Zcj7SJ4Nts4DwmMG5CoYHO3w.jpg?scale-down-to=1024&width=900&height=1125",
+   "file": "assets/framerusercontent.com/images/8Zcj7SJ4Nts4DwmMG5CoYHO3w__qc13aea3f.jpg",
+   "type": "image/avif",
+   "resourceType": "image",
+   "size": 39693,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/8zYiQZiKNfbDmqWVP9qYAALPU.png",
+   "file": "assets/framerusercontent.com/images/8zYiQZiKNfbDmqWVP9qYAALPU.png",
+   "type": "image/webp",
+   "resourceType": "other",
+   "size": 4944,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/9Nmix6g8NOphRxsDS2nJRcEAiOQ.jpg?scale-down-to=1024&width=1400&height=788",
+   "file": "assets/framerusercontent.com/images/9Nmix6g8NOphRxsDS2nJRcEAiOQ__q2d1ab704.jpg",
+   "type": "image/webp",
+   "resourceType": "image",
+   "size": 159458,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/ACws1Th42GHP3EMjM0RmKW8iho.png?width=3725&height=278",
+   "file": "assets/framerusercontent.com/images/ACws1Th42GHP3EMjM0RmKW8iho__q87d544a8.png",
+   "type": "image/webp",
+   "resourceType": "image",
+   "size": 15374,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/MXQDdfTPr9LXKsh25tej4PDwFg.jpg?width=2800&height=1867",
+   "file": "assets/framerusercontent.com/images/MXQDdfTPr9LXKsh25tej4PDwFg__qac99e7a7.jpg",
+   "type": "image/webp",
+   "resourceType": "image",
+   "size": 666098,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/O7auHIABWcajuB4bst0gj4afM0.jpg?scale-down-to=1024&width=1400&height=933",
+   "file": "assets/framerusercontent.com/images/O7auHIABWcajuB4bst0gj4afM0__q8e2914fa.jpg",
+   "type": "image/avif",
+   "resourceType": "image",
+   "size": 69339,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/OBS3VNHgwjGNhKMPk9E3TqIOJ8w.jpg?width=2800&height=1867",
+   "file": "assets/framerusercontent.com/images/OBS3VNHgwjGNhKMPk9E3TqIOJ8w__qac99e7a7.jpg",
+   "type": "image/webp",
+   "resourceType": "image",
+   "size": 552012,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/S9wfOPJ1YH5pBoQq03EkDWsnV0.jpg?width=1600&height=1002",
+   "file": "assets/framerusercontent.com/images/S9wfOPJ1YH5pBoQq03EkDWsnV0__qc37f6569.jpg",
+   "type": "image/jpeg",
+   "resourceType": "image",
+   "size": 419403,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/SRWtI2c4rlkKcotM3vuPaNGEhQU.jpg?scale-down-to=1024&width=900&height=1125",
+   "file": "assets/framerusercontent.com/images/SRWtI2c4rlkKcotM3vuPaNGEhQU__qc13aea3f.jpg",
+   "type": "image/webp",
+   "resourceType": "image",
+   "size": 76962,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/bd8czEJzsQPuorX2I1fuaKwIN6Y.jpg?width=1600&height=900",
+   "file": "assets/framerusercontent.com/images/bd8czEJzsQPuorX2I1fuaKwIN6Y__qae542d01.jpg",
+   "type": "image/webp",
+   "resourceType": "image",
+   "size": 123460,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/ggdATlBDjYSiE9IRSrHmk6goRoo.jpg?width=1600&height=1067",
+   "file": "assets/framerusercontent.com/images/ggdATlBDjYSiE9IRSrHmk6goRoo__qcd7a568f.jpg",
+   "type": "image/webp",
+   "resourceType": "image",
+   "size": 118284,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/hRtW3Uds3OiMa3zHgkZDffSDQ54.jpg?scale-down-to=1024&width=1400&height=933",
+   "file": "assets/framerusercontent.com/images/hRtW3Uds3OiMa3zHgkZDffSDQ54__q8e2914fa.jpg",
+   "type": "image/webp",
+   "resourceType": "image",
+   "size": 203422,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/n8qYj6jGTWnRYZTghx2Ztz6Iw.jpg?width=1600&height=1067",
+   "file": "assets/framerusercontent.com/images/n8qYj6jGTWnRYZTghx2Ztz6Iw__qcd7a568f.jpg",
+   "type": "image/webp",
+   "resourceType": "image",
+   "size": 189262,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/ogdSgLsyPRKkL0ZNAFDcPgigTM.jpg?width=2800&height=1867",
+   "file": "assets/framerusercontent.com/images/ogdSgLsyPRKkL0ZNAFDcPgigTM__qac99e7a7.jpg",
+   "type": "image/webp",
+   "resourceType": "image",
+   "size": 156050,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/pOxkE2r1uog3q3nZlPIMKu17I.jpg?scale-down-to=1024&width=1400&height=1088",
+   "file": "assets/framerusercontent.com/images/pOxkE2r1uog3q3nZlPIMKu17I__q9614ff58.jpg",
+   "type": "image/webp",
+   "resourceType": "image",
+   "size": 190258,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/images/uIciVl5oj86TdzYPy8PyBCqJJ5s.jpg?scale-down-to=1024&width=1400&height=977",
+   "file": "assets/framerusercontent.com/images/uIciVl5oj86TdzYPy8PyBCqJJ5s__qbfdfb232.jpg",
+   "type": "image/webp",
+   "resourceType": "image",
+   "size": 174420,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/EO797H3ca.CBJJX_m2.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/EO797H3ca.CBJJX_m2.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 21769,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/GetTemplateBadge.BvBA0ZGC.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/GetTemplateBadge.BvBA0ZGC.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 4165,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/JpM5ArNGF.BI5_MAnL.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/JpM5ArNGF.BI5_MAnL.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 3194,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/L8mA76yeG.CrbRInio.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/L8mA76yeG.CrbRInio.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 4733,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/PX9hIOIVM.DS99LJOl.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/PX9hIOIVM.DS99LJOl.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 20190,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/PgVsNTJ8F.DgbivR5L.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/PgVsNTJ8F.DgbivR5L.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 3263,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/VlT0ij3haiLqamzYasX6gHBY6IgXWg8PSdUCRw2iX3g.D3jUdSa9.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/VlT0ij3haiLqamzYasX6gHBY6IgXWg8PSdUCRw2iX3g.D3jUdSa9.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 214784,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/YEyRZTlcO.C8KrNC_F.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/YEyRZTlcO.C8KrNC_F.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 11604,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/YFRCPPXG0.DJJc32Rm.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/YFRCPPXG0.DJJc32Rm.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 1247,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/augiA20Il.L-8qrSv4.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/augiA20Il.L-8qrSv4.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 1061,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/ebcCdE0FS.6nBwMJW3.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/ebcCdE0FS.6nBwMJW3.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 4918,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/framer.ijNtrtaN.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/framer.ijNtrtaN.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 436219,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/go1oage9v.UWfuw5jA.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/go1oage9v.UWfuw5jA.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 3261,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/k3udDqvRs.B6OdUE6S.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/k3udDqvRs.B6OdUE6S.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 3169,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/motion.CE6o6hlD.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/motion.CE6o6hlD.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 155352,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/o_DqovdpI.CSYsJDgO.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/o_DqovdpI.CSYsJDgO.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 1247,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/qgylEGaiU.CnZkSyiR.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/qgylEGaiU.CnZkSyiR.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 3104,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/react.Dxe_2v0O.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/react.Dxe_2v0O.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 145057,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/rolldown-runtime.Bi-D_2cA.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/rolldown-runtime.Bi-D_2cA.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 244,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/script_main._E5K1iEH.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/script_main._E5K1iEH.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 9060,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/t05UghLVC.DM_mTlUs.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/t05UghLVC.DM_mTlUs.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 1032,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/toplevel-deps.B6Vs3q-z.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/toplevel-deps.B6Vs3q-z.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 96259,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/z1RDcnr45.C1QwXqd8.mjs",
+   "file": "assets/framerusercontent.com/sites/3oPHn5vtNA4zkPtCf1tr9t/z1RDcnr45.C1QwXqd8.mjs",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 4925,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://framerusercontent.com/third-party-assets/fontshare/wf/WAVZNL4Z7TESTS4B4IIRZFODLSPP6FXA/E36Y7HT2GFM2VKF4G73CRBOSSERR73SW/33ZCUAC3GU2QVDMGY6EP3BNWHET5IUK4.woff2",
+   "file": "assets/framerusercontent.com/third-party-assets/fontshare/wf/WAVZNL4Z7TESTS4B4IIRZFODLSPP6FXA/E36Y7HT2GFM2VKF4G73CRBOSSERR73SW/33ZCUAC3GU2QVDMGY6EP3BNWHET5IUK4.woff2",
+   "type": "application/octet-stream",
+   "resourceType": "font",
+   "size": 53484,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  }
+ ]
+}

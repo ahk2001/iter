@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 40" width="360" height="40" fill="none">
+  <!-- Autoescuelas ITER - Logotipo Oficial Vectorial -->
+  <g id="semaforo">
+    <!-- Red traffic dot -->
+    <circle cx="14" cy="20" r="10" fill="#f93223" />
+    <!-- Yellow traffic dot -->
+    <circle cx="42" cy="20" r="10" fill="#ffd400" />
+    <!-- Green traffic dot -->
+    <circle cx="70" cy="20" r="10" fill="#22c55e" />
+  </g>
+  <!-- Wordmark -->
+  <text x="96" y="28" fill="#ffffff" font-family="'Anybody Variable', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="900" letter-spacing="-0.02em">AUTOESCUELAS ITER</text>
+</svg>
