@@ -17,7 +17,7 @@ Hola, buenas tardes.
 Revisando vuestra web de Autoescuelas Iter en Fuente Álamo y Cartagena, vi que tenéis excelentes opiniones pero en el móvil la web actual tarda en cargar y no tiene botón flotante de WhatsApp directo para matricularse en un clic.
 
 Os preparé una versión moderna de muestra con vuestras 4 sedes conectadas:
-👉 [LINK_DO_SEU_SITE]
+👉 https://ahk2001.github.io/iter/
 
 Si os sirve para captar más alumnos desde el móvil, os la dejamos lista por solo 137€ (pago único, sin cuotas). ¿Sería una mala idea echarle un ojo de 30 segundos en el teléfono?
 ```
